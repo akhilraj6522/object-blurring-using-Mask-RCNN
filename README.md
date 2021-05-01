@@ -1,6 +1,8 @@
 # object-blurring-using-Mask-RCNN
 object blurring for preventing violation of community guidelines in social media.
 
+This model detects the object and blur the object. this model can be trained with images containing object which is needed to be blurred.
+
 This Repo is just a tiny modification of Matterports MaskRCNN Repo link is [here](https://github.com/matterport/Mask_RCNN) .
 This repository contains the prediction and modified visualisation algorithm of Mask rcnn
 
@@ -10,7 +12,7 @@ This model is implemented using a model pre-trained on MS COCO.All you need to d
 Copy and paste the downloaded weight file inside mrcnn folder.
 
 
-Then give the path to weight file in image.py and video.py .
+Then give the path of weight file to 'MRCNN_model_path' in image.py and video.py .
 
 Ex:- MRCNN_model_path = "mrcnn\\mask_rcnn_coco.h5".
 
@@ -34,4 +36,5 @@ This model contains 81 classes of objects -
                
 
 As there is 81 classes, the 'NUM_CLASSES' variable in image.py and video.py should be 81  Ex:- "NUM_CLASSES = 81"
+
 
