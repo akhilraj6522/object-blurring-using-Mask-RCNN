@@ -53,12 +53,27 @@ The 'NUM_CLASSES' variable in image.py and video.py should be assigned with no o
 
 run
 
-python image.py <li>path to image</li>
+    python image.py path to image
 
 
 Below are the examples for the model
 
 <h1>Original image</h1>
 
+![](samples/cow.jpg )
+
+<h1>Output image</h1>
+
 ![](samples/out.jpg )
 
+
+<h1>Prediction(video)</h1>
+
+run
+
+    python image.py path to video
+
+
+<h1>Output</h1>
+
+![](samples/video_out.avi )
