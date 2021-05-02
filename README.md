@@ -53,7 +53,7 @@ The 'NUM_CLASSES' variable in image.py and video.py should be assigned with no o
 
 run
 
-    python image.py path to image
+    python image.py path_to_image
 
 
 Below are the examples for the model
@@ -71,7 +71,7 @@ Below are the examples for the model
 
 run
 
-    python image.py path to video
+    python image.py path_to_video
 
 
 <h1>Output</h1>
