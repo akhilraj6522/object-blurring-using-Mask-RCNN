@@ -6,6 +6,10 @@ This model detects the object and blur the object. this model can be trained wit
 This Repo is just a tiny modification of Matterports MaskRCNN Repo link is [here](https://github.com/matterport/Mask_RCNN) .
 This repository contains the prediction and modified visualisation algorithm of Mask rcnn.
 
+Install required libraries
+
+    pip install -r requirements.txt
+
 <h1>Pre-trained data</h1>
 
 This model is implemented using a model pre-trained on MS COCO.All you need to do is download the pre-trained weights [here](https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5).
