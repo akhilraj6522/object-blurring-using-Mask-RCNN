@@ -76,4 +76,4 @@ run
 
 <h1>Output</h1>
 
-![](samples/video_out.avi )
+![](samples/video_out.gif )
