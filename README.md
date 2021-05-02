@@ -45,6 +45,9 @@ As there is 81 classes, the 'NUM_CLASSES' variable in image.py and video.py shou
 <h1>Custom trained data</h1>
 
 This model can be trained from [this_repository](https://github.com/matterport/Mask_RCNN) .
+
+For hiding vulgar or explicit content from your media file, you might need images containing it for training.
+
 The weight file obtained after training is to be copied in mrcnn folder.
 
 Then give the path of weight file to 'MRCNN_model_path' in image.py and video.py .
