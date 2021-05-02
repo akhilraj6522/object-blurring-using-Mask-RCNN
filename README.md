@@ -65,7 +65,7 @@ run
 
 Below are the examples for the model
 
-<h1>Original image</h1>
+<h1>Sample image</h1>
 
 ![](samples/cow.jpg )
 
