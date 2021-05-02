@@ -63,7 +63,7 @@ run
     python image.py path_to_image
 
 
-Below are the examples for the model
+Below are the examples of the model
 
 <h1>Sample image</h1>
 
