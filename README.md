@@ -84,3 +84,5 @@ run
 <h1>Output</h1>
 
 ![](samples/video_out.gif )
+
+For better out put, this model can be trained with custom dataset.
