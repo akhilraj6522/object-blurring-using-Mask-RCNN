@@ -85,4 +85,4 @@ run
 
 ![](samples/video_out.gif )
 
-For better out put, this model can be trained with custom dataset.
+For better output, this model can be trained with custom dataset.
