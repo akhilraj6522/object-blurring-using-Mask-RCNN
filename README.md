@@ -78,7 +78,7 @@ Below are the examples of the model
 
 run
 
-    python image.py path_to_video
+    python video.py path_to_video
 
 
 <h1>Output</h1>
