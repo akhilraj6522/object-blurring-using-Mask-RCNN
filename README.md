@@ -3,7 +3,7 @@ object blurring for preventing violation of community guidelines in social media
 
 This model detects the object and blur the object. this model can be trained with images containing object which is needed to be blurred.
 
-This Repo is just a tiny modification of Matterports MaskRCNN Repo link is [here](https://github.com/matterport/Mask_RCNN) .
+This Repo is a modification of Matterports MaskRCNN Repo - link is [here](https://github.com/matterport/Mask_RCNN) .
 This repository contains the prediction and modified visualisation algorithm of Mask rcnn.
 
 Install required libraries
